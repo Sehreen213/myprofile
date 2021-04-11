@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: 'Ultra', serif;
+}
+
+#Apps {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    font-family: 'Ultra', serif;
+    padding: 15px;
+}
+
+.line {
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+
+
+}
+
+#Games {
+    background-color: gold;
+
+}
+
+img {
+    transition: transform .2s;
+    height: 300px;
+    width: 300px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#Chatbot {
+    background-color: darkturquoise;
+
+
+}
+
+#myCarousel {
+    background-color: gold;
+
+
+}
+
+#myCarousel img {
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+
+
+}
